@@ -21,4 +21,4 @@
 ![Social Media](Social_media.png)
 ![Customer Reviews](Customer_reviews.png)
 
-*Guided project based on Ali Ahmad's Marketing Analytics tutorial.*
+*Guided project.*
